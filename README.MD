@@ -50,8 +50,7 @@ ChatGPT:
 |Gerar Titulos|Crie 5 titulos para postcast onde que o assunto é a feramenta powerBi da microssofit.Um titulo simples e intuitivos que chame atenção.{REGRAS} O tittulo tem que ser voltado para brasileiros. O titulo deve ser ser curto|
 |Gerar texto Podcast|Crie um roteiro postcast sobre o assunto PowerBi da microssofit .O nome do poscast é [O Poder do Power BI nas Empresas]Explicando o beneficios que ele traz para a analise de dados e aumento da produtividade. Com um tom mde voz para leigos. {REGRAS} tempo maximo 5 minuttos;Usar termo técnicos simplificado e de fácil compreendimento; Não usar palavras complexa para o publico leigo.|
 ______________________________________________________________________________________________________________________________
-_____________________________________________________________________________________________________________________________________________
-
+___________________________________________________________________________________________________________________________________________pal🎶🎶🎶[Escute o postcast aqui](output/Podcast.MP3)
 
 ## 👨‍💻 Expert
 
